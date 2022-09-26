@@ -1,0 +1,6 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "my-poc-site/content/remote_post"]
+	path = my-poc-site/content/remote_post
+	url = https://github.com/coley-angel/doc_remote_repo.git
